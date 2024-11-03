@@ -1,4 +1,4 @@
-<img src="https://github.com/DDBKit/DDBKit/blob/main/.github/image.png?raw=true" alt="Logo" align="right" width="150"/>
+<img src=".github/image.png" alt="Logo" align="right" width="150"/>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
