@@ -15,6 +15,8 @@
 ## [DDBKit](https://github.com/DDBKit/DDBKit)
 > A declarative discord bot abstraction framework built on [DiscordBM](https://github.com/DiscordBM/DiscordBM)
 
+> DDBKit is still a work-in-progress, but it'll be out very soon!
+
 ## [DDBKit-docs](https://github.com/DDBKit/DDBKit-docs)
 > Documentation site for DDBKit guidance and API reference.<br>
 > If you have any additions or suggestions, tell us or PR it!
