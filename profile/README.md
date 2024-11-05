@@ -11,11 +11,11 @@
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Logo" align="right" height="20"/>
 </a>
 
+> DDBKit is still a work-in-progress (and it's related repos), but it'll be out very soon!
+
 # Projects
 ## [DDBKit](https://github.com/DDBKit/DDBKit)
 > A declarative discord bot abstraction framework built on [DiscordBM](https://github.com/DiscordBM/DiscordBM)
-
-> DDBKit is still a work-in-progress, but it'll be out very soon!
 
 ## [DDBKit-docs](https://github.com/DDBKit/DDBKit-docs)
 > Documentation site for DDBKit guidance and API reference.<br>
@@ -23,7 +23,7 @@
 
 ## [DDBKit-Template](https://github.com/DDBKit/DDBKit-Template)
 > Quick start template Discord bot that's ready to go!<br>
-> It's already set up with
+> It's already set up with (...)
 
 ## [DiscordBotShell](https://github.com/DDBKit/DiscordBotShell)
 > Quick start template shell app that runs persistently.<br>
